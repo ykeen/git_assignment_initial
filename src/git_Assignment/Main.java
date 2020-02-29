@@ -8,6 +8,8 @@ public class Main {
             new ReallySimpleSubscriber(),
             new sphereArea(),
             new CircleVol(),
+            new SphereVolum(),
+            new SphereCircumference()
     };
     public static void main(String[] args) {
         System.out.println("Enter Your Radius here :");
