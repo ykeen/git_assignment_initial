@@ -5,7 +5,8 @@ public class Main {
 			new SimpleSubscriber(),
 			new ReallySimpleSubscriber(),
 			new CircleArea(),
-			new SpherVoluum()
+			new SpherVoluum(),
+                        new CircleCircumference(),
 	};
 	public static void main(String[] args) {
 		Topic mathTopic = new Topic();
