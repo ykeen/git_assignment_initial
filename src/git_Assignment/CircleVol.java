@@ -1,6 +1,5 @@
 package git_Assignment;
 
-
 public class CircleVol implements ISubscriber {
     @Override
     public void notifySubscriber(String input) {
