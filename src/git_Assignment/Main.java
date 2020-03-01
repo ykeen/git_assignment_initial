@@ -11,7 +11,8 @@ public class Main {
             new LucasSeries(),
             new SphereVolum(),
             new SphereCircumference()
-            new Fibonacci();
+            new Fibonacci()
+            new CircleArea();
 
     };
     public static void main(String[] args) {
